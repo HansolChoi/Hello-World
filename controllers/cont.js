@@ -9,7 +9,7 @@ var fs = require('fs');
 require('date-utils');
 
 // 관리자가 임의로 쉽게 사용자 만들기.
-// 뭐야..
+// 뭐야..xcvxcvxvxvxvx
 exports.createUser = function(req, res){
     var username = req.query.username;
 
